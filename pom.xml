@@ -49,6 +49,6 @@
     <scm>
         <connection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/portal/trunk/plugins/directory-form-workflow/module-directory-address</connection>
         <developerConnection>scm:svn:https://dev.lutece.paris.fr/svn/lutece/portal/trunk/plugins/directory-form-workflow/module-directory-address</developerConnection>
-        <url>http://dev.lutece.paris.fr/viewvc/portal/trunk/plugins/directory-form-workflow/module-directory-address</url>
+        <url>http://dev.lutece.paris.fr/viewvc/lutece/portal/trunk/plugins/directory-form-workflow/module-directory-address</url>
     </scm>
 </project>
