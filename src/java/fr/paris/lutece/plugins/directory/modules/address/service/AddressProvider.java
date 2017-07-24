@@ -130,4 +130,11 @@ public class AddressProvider implements IMapProvider {
 		return CONSTANT_MAP_LIST_SUPPORTED;
 	}
 
+	/**
+	 * {@inheritDoc}
+	 */
+	public Object getParameter( int nKey )
+	{
+		return null;
+	}
 }
